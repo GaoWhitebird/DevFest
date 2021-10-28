@@ -1,4 +1,4 @@
-# own_dev_fest
+# DevFest
 
 A new Flutter project.
 
